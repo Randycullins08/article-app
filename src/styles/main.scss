@@ -1,15 +1,32 @@
 @import "./navbar.scss";
+@import "./mainContent.scss";
 
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
 }
 
-#root {
+.App {
   display: grid;
   grid-template-columns: 1fr 5fr;
 
   h1 {
     margin: 0;
+  }
+}
+
+img {
+  transition: transform 450ms;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+button {
+  transition: transform 450ms;
+
+  &:hover {
+    transform: scale(1.05);
   }
 }
