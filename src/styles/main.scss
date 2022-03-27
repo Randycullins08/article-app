@@ -30,3 +30,11 @@ button {
     transform: scale(1.05);
   }
 }
+
+i {
+  transition: transform 450ms;
+
+  &:hover {
+    transform: scale(2);
+  }
+}

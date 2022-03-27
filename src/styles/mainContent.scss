@@ -48,8 +48,36 @@
     }
   }
 
+  .bottom-content-wrapper {
+    text-align: center;
+    margin: 2em 3em 0.5em;
+  }
+
+  .button-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    button {
+      padding: 15px 40px;
+      margin: 0px 10px;
+      border-radius: 15px;
+    }
+  }
+
+  .social-media-icon-wrapper {
+    margin: 2.5em 0px 0.5em;
+    width: 40%;
+
+    i {
+      color: inherit;
+      margin: 0px 2em;
+      font-size: 1.5em;
+    }
+  }
+
   .footer {
-    margin-top: 3em;
+    margin-top: 2em;
     font-size: 0.8em;
     display: flex;
     justify-content: center;

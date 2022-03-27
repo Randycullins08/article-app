@@ -91,11 +91,37 @@ export default function MainContent() {
       </div>
 
       <div className="bottom-content-wrapper">
-        <h3>MAIN CONTENT</h3>
+        <h3>More Content</h3>
+        <hr width="25%" />
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quod et
+          odit impedit dolores totam ullam ab quaerat unde cum, numquam nihil
+          non, ducimus quos at aspernatur fuga vel cupiditate? Omnis laboriosam
+          sed perferendis quaerat cupiditate, eos veniam quasi nesciunt sit iste
+          unde ipsam laudantium natus eligendi adipisci illum nulla debitis.
+          Numquam culpa cupiditate tempore quis natus, modi vero vel. Itaque, et
+          saepe accusantium reiciendis, ut temporibus repellendus cupiditate
+          voluptatibus reprehenderit ullam dolor velit! Id et ab optio aliquid
+          asperiores cum dolorum reiciendis modi a. Omnis fuga beatae qui
+          delectus! Inventore optio labore suscipit minus aspernatur tenetur
+          magni facere laudantium non illo voluptates possimus similique ab vel
+          incidunt porro, aut ut, natus maxime, assumenda exercitationem est
+          nisi laboriosam! Explicabo, sunt! Nihil esse laboriosam aperiam quae
+          enim dolores voluptas, molestias repellat quis nemo quos unde ad eius
+          facere provident illo quo dolorem accusamus minus harum illum soluta
+          rerum dolorum praesentium. Optio? Consectetur tempora dolorem
+          cupiditate placeat officia beatae cum distinctio porro quidem fugiat,
+          corporis eum vitae quo! Non autem fugiat similique quaerat laborum
+          laboriosam, numquam reprehenderit repellat, quisquam dignissimos,
+          perferendis quidem. Rerum, maxime? Eos consectetur excepturi culpa
+          provident fugiat! Aspernatur, in nostrum commodi veritatis fuga unde
+          cupiditate sequi incidunt quaerat ipsa.
+        </p>
+        <hr />
       </div>
 
       <div className="button-wrapper">
-        <button>Button</button>
+        <button>Learn More</button>
       </div>
 
       <div className="social-media-icon-wrapper">
